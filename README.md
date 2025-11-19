@@ -8,7 +8,7 @@ A modern, responsive portfolio website built as a final project for my Web Desig
 
 ## 🎯 Project Overview
 
-This portfolio website represents my journey as a Software Engineering student and demonstrates my proficiency in modern web development technologies. The project was developed as the final assignment for my Web Design course, focusing on implementing responsive design principles, interactive elements, and aesthetic user interfaces.
+This portfolio website represents my journey as a Software Engineering student and demonstrates my proficiency in modern web development technologies. The project was developed as a personal website front-end development for my Web Design course, focusing on implementing responsive design principles, interactive elements, and aesthetic user interfaces.
 
 ### 📚 Course Information
 - **Course**: Web Design and Development
@@ -110,9 +110,9 @@ This project helped me master several key web development concepts:
 ## 👨‍💻 Author
 
 **Abeje Goshu**
-- GitHub: [@abeloper](https://github.com/abeloper)
+- GitHub: @abeloper](https://github.com/abeloper)
 - Email: abejegoshu554@gmail.com
-- LinkedIn: [Abeje Goshu](https://linkedin.com/in/abeje-goshu)
+- LinkedIn: Abeje Goshu](https://linkedin.com/in/abeje-goshu)
 - Location: Addis Ababa, Ethiopia
 
 ## 🙏 Acknowledgments
